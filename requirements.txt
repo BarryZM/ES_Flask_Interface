@@ -1,0 +1,5 @@
+jieba
+baidu-aip
+flask
+flask-restful
+requests
